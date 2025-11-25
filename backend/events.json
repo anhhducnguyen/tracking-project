@@ -1,0 +1,384 @@
+[
+  {
+    "userId": null,
+    "eventType": "buy_click",
+    "element": "Buy Button",
+    "metadata": {
+      "sectionId": 2,
+      "sectionTitle": "Sản phẩm 2"
+    },
+    "duration": null,
+    "createdAt": "2025-11-25T04:27:40.737Z"
+  },
+  {
+    "userId": null,
+    "eventType": "button_hover",
+    "element": "Buy Button",
+    "metadata": {
+      "sectionId": 2,
+      "sectionTitle": "Sản phẩm 2"
+    },
+    "duration": 1,
+    "createdAt": "2025-11-25T04:27:40.830Z"
+  },
+  {
+    "userId": null,
+    "eventType": "userIdle",
+    "pageUrl": "/home",
+    "element": null,
+    "metadata": {},
+    "duration": null,
+    "createdAt": "2025-11-25T04:27:45.551Z"
+  },
+  {
+    "userId": null,
+    "eventType": "button_visible",
+    "element": "Buy Button",
+    "metadata": {
+      "sectionId": 1,
+      "sectionTitle": "Sản phẩm 1"
+    },
+    "duration": 13,
+    "createdAt": "2025-11-25T04:27:47.988Z"
+  },
+  {
+    "userId": null,
+    "eventType": "button_visible",
+    "element": "Buy Button",
+    "metadata": {
+      "sectionId": 2,
+      "sectionTitle": "Sản phẩm 2"
+    },
+    "duration": 13,
+    "createdAt": "2025-11-25T04:27:51.244Z"
+  },
+  {
+    "userId": null,
+    "eventType": "button_visible",
+    "element": "Buy Button",
+    "metadata": {
+      "sectionId": 4,
+      "sectionTitle": "Sản phẩm 4"
+    },
+    "duration": 10,
+    "createdAt": "2025-11-25T04:27:58.240Z"
+  },
+  {
+    "userId": null,
+    "eventType": "button_visible",
+    "element": "Buy Button",
+    "metadata": {
+      "sectionId": 5,
+      "sectionTitle": "Sản phẩm 5"
+    },
+    "duration": 7,
+    "createdAt": "2025-11-25T04:27:58.246Z"
+  },
+  {
+    "userId": null,
+    "eventType": "button_visible",
+    "element": "Buy Button",
+    "metadata": {
+      "sectionId": 3,
+      "sectionTitle": "Sản phẩm 3"
+    },
+    "duration": 20,
+    "createdAt": "2025-11-25T04:27:58.288Z"
+  },
+  {
+    "userId": null,
+    "eventType": "button_visible",
+    "element": "Buy Button",
+    "metadata": {
+      "sectionId": 7,
+      "sectionTitle": "Sản phẩm 7"
+    },
+    "duration": 6,
+    "createdAt": "2025-11-25T04:28:03.746Z"
+  },
+  {
+    "userId": null,
+    "eventType": "button_visible",
+    "element": "Buy Button",
+    "metadata": {
+      "sectionId": 4,
+      "sectionTitle": "Sản phẩm 4"
+    },
+    "duration": 14,
+    "createdAt": "2025-11-25T04:28:17.921Z"
+  },
+  {
+    "userId": null,
+    "eventType": "button_visible",
+    "element": "Buy Button",
+    "metadata": {
+      "sectionId": 5,
+      "sectionTitle": "Sản phẩm 5"
+    },
+    "duration": 14,
+    "createdAt": "2025-11-25T04:28:18.066Z"
+  },
+  {
+    "userId": null,
+    "eventType": "userIdle",
+    "pageUrl": "/home",
+    "element": null,
+    "metadata": {},
+    "duration": null,
+    "createdAt": "2025-11-25T04:28:19.691Z"
+  },
+  {
+    "userId": null,
+    "eventType": "button_visible",
+    "element": "Buy Button",
+    "metadata": {
+      "sectionId": 8,
+      "sectionTitle": "Sản phẩm 8"
+    },
+    "duration": 2,
+    "createdAt": "2025-11-25T04:28:31.893Z"
+  },
+  {
+    "userId": null,
+    "eventType": "button_visible",
+    "element": "Buy Button",
+    "metadata": {
+      "sectionId": 7,
+      "sectionTitle": "Sản phẩm 7"
+    },
+    "duration": 14,
+    "createdAt": "2025-11-25T04:28:32.393Z"
+  },
+  {
+    "userId": null,
+    "eventType": "button_visible",
+    "element": "Buy Button",
+    "metadata": {
+      "sectionId": 6,
+      "sectionTitle": "Sản phẩm 6"
+    },
+    "duration": 35,
+    "createdAt": "2025-11-25T04:28:32.477Z"
+  },
+  {
+    "userId": null,
+    "eventType": "button_visible",
+    "element": "Buy Button",
+    "metadata": {
+      "sectionId": 3,
+      "sectionTitle": "Sản phẩm 3"
+    },
+    "duration": 18,
+    "createdAt": "2025-11-25T04:28:50.830Z"
+  },
+  {
+    "userId": null,
+    "eventType": "button_visible",
+    "element": "Buy Button",
+    "metadata": {
+      "sectionId": 4,
+      "sectionTitle": "Sản phẩm 4"
+    },
+    "duration": 19,
+    "createdAt": "2025-11-25T04:28:51.912Z"
+  },
+  {
+    "userId": null,
+    "eventType": "button_visible",
+    "element": "Buy Button",
+    "metadata": {
+      "sectionId": 5,
+      "sectionTitle": "Sản phẩm 5"
+    },
+    "duration": 20,
+    "createdAt": "2025-11-25T04:28:52.028Z"
+  },
+  {
+    "userId": null,
+    "eventType": "userIdle",
+    "pageUrl": "/home",
+    "element": null,
+    "metadata": {},
+    "duration": null,
+    "createdAt": "2025-11-25T04:29:16.359Z"
+  },
+  {
+    "userId": null,
+    "eventType": "button_visible",
+    "element": "Buy Button",
+    "metadata": {
+      "sectionId": 6,
+      "sectionTitle": "Sản phẩm 6"
+    },
+    "duration": 29,
+    "createdAt": "2025-11-25T04:29:20.901Z"
+  },
+  {
+    "userId": null,
+    "eventType": "button_visible",
+    "element": "Buy Button",
+    "metadata": {
+      "sectionId": 6,
+      "sectionTitle": "Sản phẩm 6"
+    },
+    "duration": null,
+    "createdAt": "2025-11-25T04:29:28.752Z"
+  },
+  {
+    "userId": null,
+    "eventType": "button_visible",
+    "element": "Buy Button",
+    "metadata": {
+      "sectionId": 8,
+      "sectionTitle": "Sản phẩm 8"
+    },
+    "duration": 12,
+    "createdAt": "2025-11-25T04:29:32.978Z"
+  },
+  {
+    "userId": null,
+    "eventType": "button_visible",
+    "element": "Buy Button",
+    "metadata": {
+      "sectionId": 7,
+      "sectionTitle": "Sản phẩm 7"
+    },
+    "duration": 42,
+    "createdAt": "2025-11-25T04:29:33.647Z"
+  },
+  {
+    "userId": null,
+    "eventType": "userIdle",
+    "pageUrl": "/home",
+    "element": null,
+    "metadata": {},
+    "duration": null,
+    "createdAt": "2025-11-25T04:29:49.622Z"
+  },
+  {
+    "userId": null,
+    "eventType": "button_visible",
+    "element": "Buy Button",
+    "metadata": {
+      "sectionId": 5,
+      "sectionTitle": "Sản phẩm 5"
+    },
+    "duration": 563,
+    "createdAt": "2025-11-25T04:38:56.401Z"
+  },
+  {
+    "userId": null,
+    "eventType": "button_visible",
+    "element": "Buy Button",
+    "metadata": {
+      "sectionId": 4,
+      "sectionTitle": "Sản phẩm 4"
+    },
+    "duration": 562,
+    "createdAt": "2025-11-25T04:38:56.404Z"
+  },
+  {
+    "userId": null,
+    "eventType": "button_visible",
+    "element": "Buy Button",
+    "metadata": {
+      "sectionId": 6,
+      "sectionTitle": "Sản phẩm 6"
+    },
+    "duration": 563,
+    "createdAt": "2025-11-25T04:38:56.405Z"
+  },
+  {
+    "userId": null,
+    "eventType": "button_visible",
+    "element": "Buy Button",
+    "metadata": {
+      "sectionId": 2,
+      "sectionTitle": "Sản phẩm 2"
+    },
+    "duration": null,
+    "createdAt": "2025-11-25T04:38:56.466Z"
+  },
+  {
+    "userId": null,
+    "eventType": "button_visible",
+    "element": "Buy Button",
+    "metadata": {
+      "sectionId": 3,
+      "sectionTitle": "Sản phẩm 3"
+    },
+    "duration": 1,
+    "createdAt": "2025-11-25T04:38:56.500Z"
+  },
+  {
+    "userId": null,
+    "eventType": "button_visible",
+    "element": "Buy Button",
+    "metadata": {
+      "sectionId": 2,
+      "sectionTitle": "Sản phẩm 2"
+    },
+    "duration": 2,
+    "createdAt": "2025-11-25T04:39:02.629Z"
+  },
+  {
+    "userId": null,
+    "eventType": "userIdle",
+    "pageUrl": "/home",
+    "element": null,
+    "metadata": {},
+    "duration": null,
+    "createdAt": "2025-11-25T04:39:15.688Z"
+  },
+  {
+    "userId": null,
+    "eventType": "button_visible",
+    "element": "Buy Button",
+    "metadata": {
+      "sectionId": 1,
+      "sectionTitle": "Sản phẩm 1"
+    },
+    "duration": 41,
+    "createdAt": "2025-11-25T04:39:37.598Z"
+  },
+  {
+    "userId": null,
+    "eventType": "userIdle",
+    "pageUrl": "/home",
+    "element": null,
+    "metadata": {},
+    "duration": null,
+    "createdAt": "2025-11-25T04:39:53.401Z"
+  },
+  {
+    "userId": null,
+    "eventType": "button_visible",
+    "element": "Buy Button",
+    "metadata": {
+      "sectionId": 4,
+      "sectionTitle": "Sản phẩm 4"
+    },
+    "duration": 195,
+    "createdAt": "2025-11-25T04:42:52.432Z"
+  },
+  {
+    "userId": null,
+    "eventType": "button_visible",
+    "element": "Buy Button",
+    "metadata": {
+      "sectionId": 3,
+      "sectionTitle": "Sản phẩm 3"
+    },
+    "duration": 195,
+    "createdAt": "2025-11-25T04:42:52.556Z"
+  },
+  {
+    "userId": null,
+    "eventType": "userIdle",
+    "pageUrl": "/home",
+    "element": null,
+    "metadata": {},
+    "duration": null,
+    "createdAt": "2025-11-25T04:43:09.150Z"
+  }
+]
